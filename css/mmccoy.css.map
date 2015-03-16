@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,QAAS;EACP,KAAK,EAAE,kBAAc;EACrB,WAAW,EAAE,YAAY",
+"sources": ["source/mmccoy.scss"],
+"names": [],
+"file": "mmccoy.css"
+}
