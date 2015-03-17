@@ -1,4 +1,4 @@
-h2.muted {
+.reveal .muted {
   color: rgba(0,0,0,.2);
   text-shadow: 0 1px 0 #fff;
 }
@@ -30,4 +30,8 @@ img.noborder {
 
 .three-column div {
   flex: .33;
+}
+
+.four-column div {
+  flex: .25;
 }

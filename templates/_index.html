@@ -39,9 +39,7 @@
     <body>
 
         <div class="reveal">
-
             <div class="slides">
-
                 <% _.forEach(slides, function(slide) { %>
                     <% if (!_.isArray(slide)) { %>
                         <%= section(slide) %>
@@ -55,7 +53,6 @@
                     <% } %>
                 <% }); %>
             </div>
-
         </div>
 
         <script src="bower_components/reveal.js/lib/js/head.min.js"></script>
@@ -87,6 +84,10 @@
                     { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
                 ]
             });
+
+            // Reveal.addEventListener( 'fragmentshown', function( event ) {
+            //     console.log(event.fragment);
+            // } );
         </script>
 
     </body>
