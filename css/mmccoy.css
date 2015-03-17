@@ -2,4 +2,27 @@ h2.muted {
   color: rgba(0, 0, 0, 0.2);
   text-shadow: 0 1px 0 #fff; }
 
+p.caption {
+  font-size: .5em;
+  color: rgba(0, 0, 0, 0.7); }
+
+img.noborder {
+  border: 0 !important;
+  box-shadow: none !important; }
+
+.reveal blockquote {
+  background-color: #fff;
+  font-style: italic;
+  font-size: .8em;
+  width: 100%; }
+
+.flex {
+  display: flex !important; }
+
+.two-column div {
+  flex: .5; }
+
+.three-column div {
+  flex: .33; }
+
 /*# sourceMappingURL=mmccoy.css.map */

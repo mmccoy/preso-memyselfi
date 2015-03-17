@@ -1,4 +1,18 @@
 [
     "index.md",
-    "where.md"
+    "where.md",
+    [
+      "buffalo-weather-1.md",
+      "buffalo-weather-2.md",
+      "buffalo-food.md",
+      "buffalo-sports.md",
+      "buffalo-sentence.md"
+    ],
+    "who.md",
+    [
+      "me-intro.md",
+      "me-college.md",
+      "me-computers-1.md",
+      "me-computers-2.md"
+    ]
 ]
