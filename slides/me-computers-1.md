@@ -6,13 +6,13 @@
 
 <div class="three-column flex fragment">
   <div>
-    <img src="/images/ansi-1.png" alt="">
+    <img src="images/ansi-1.png" alt="">
   </div>
   <div>
-    <img src="/images/ansi-2.png" alt="" style="width: 90%;">
+    <img src="images/ansi-2.png" alt="" style="width: 90%;">
   </div>
   <div>
-    <img src="/images/ansi-3.png" alt="" style="width: 86%;">
+    <img src="images/ansi-3.png" alt="" style="width: 86%;">
   </div>
 </div>
 
